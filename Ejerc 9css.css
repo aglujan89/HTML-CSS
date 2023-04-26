@@ -1,0 +1,58 @@
+
+body{
+    height: 40px;
+    width: 30;
+
+}
+
+body{
+    background-image: url(./papas-fritas-con-maicena-facil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: orange;
+}
+
+h1{
+    color: darkcyan;
+}
+
+h2{
+    color: darkblue;
+}
+
+.span1{
+        color: tomato;
+}
+
+.span2{
+    color: goldenrod;
+}
+
+.span3 {
+    color: red;
+    border-bottom: 1px;
+    text-decoration: underline;
+}
+
+.span5 {
+    color: lightblue;
+}
+
+.span6{
+    color: blueviolet;
+}
+
+#id1{
+    color: green;
+}
+
+p{
+    color: lightgreen;
+}
+
+table{
+    color: aliceblue;
+}
+.tabla1{
+    color: blue;
+}
