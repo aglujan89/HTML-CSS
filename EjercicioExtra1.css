@@ -1,0 +1,26 @@
+/* ul li:before {
+  
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url(BanderaArg.png);
+    background-repeat: no-repeat;
+    margin-right: 5px; /* Este valor es opcional, ajusta el espaciado entre la viñeta y el texto
+    list-style-position: inside;
+  } */
+ ul{
+    list-style: none;
+ }
+ img{
+width: 20px;
+ }
+ .pagweb{
+    list-style: inside;
+ }
+ p{
+    text-align: left;
+    font-weight: bold;
+ text-decoration: underline;
+ margin-left: 3%;
+ }
