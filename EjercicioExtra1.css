@@ -9,6 +9,9 @@
     margin-right: 5px; /* Este valor es opcional, ajusta el espaciado entre la viñeta y el texto
     list-style-position: inside;
   } */
+  body{
+   background-color:rgb(165, 255, 160);
+  }
  ul{
     list-style: none;
  }
@@ -23,4 +26,5 @@ width: 20px;
     font-weight: bold;
  text-decoration: underline;
  margin-left: 3%;
+ margin-top: 3%;
  }
