@@ -1,0 +1,16 @@
+table, th, td{
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+thead{
+    background-color: gainsboro;
+}
+td.primeraCol{
+    background-color: #E6F3FF;
+} 
+tr.filaalterna{
+  background-color: #FFFFCC;  
+}
